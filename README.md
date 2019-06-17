@@ -33,7 +33,6 @@ Google Places API Documentation is available at https://developers.google.com/pl
 
 
 # PRE-REQUISITES
--------------------------------
 
 The following are pre-requisites to successfully run the sample code:
  server.port :9000 
@@ -68,7 +67,6 @@ See a list of places with details:
    
 
 # DEBUGGING THE EXAMPLE IN ECLIPSE IDE
-------------------------------------
  
   Copy the unzipped folder into your Eclipse workspace
 
