@@ -1,23 +1,23 @@
 # location-finder
 
-# RESTFul Service Using Google and Foursquare Places API in Spring Boot
+RESTFul Service Using Google and Foursquare Places API in Spring Boot
 
 
 # INTRODUCTION
--------------------------------
+
 Thank you for using this Location Finder. This REST Service contains functionality of search, list of places/details 
 and filter/category/other attributes
 
 
 # REQUIREMENTS
--------------------------------
+
 JDK 1.8
 Apache Tomcat 8
 Eclipse Java EE
 
 
 # CONTENTS
--------------------------------
+
 /src - example code to execute the REST APIs
 /readme.txt - this file
 /JRE System Library - contains all dependent jar files to run the sample
@@ -27,7 +27,6 @@ Eclipse Java EE
 
 
 # DOCUMENTATION & SUPPORT
--------------------------------
 
 Foursquare Places API Documentation is available at https://developer.foursquare.com/docs/api
 Google Places API Documentation is available at https://developers.google.com/places/web-service/search
@@ -41,7 +40,6 @@ The following are pre-requisites to successfully run the sample code:
 
 
 # RUNNING THE EXAMPLE
--------------------------------
 
 Right click on project and Run As Java Application "PlaceApplication"
 Open any browser and type below URI
